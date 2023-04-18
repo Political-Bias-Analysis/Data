@@ -4,7 +4,10 @@
         "border"
     ],
     "Links": [
-        "https://www.cbsnews.com/news/the-original-birther-controversy/?intcid=CNM-00-10abd1h"
+        {
+            "link": "https://www.cbsnews.com/news/the-original-birther-controversy/?intcid=CNM-00-10abd1h",
+            "bias": "border"
+        }
     ],
     "Year": 2012
 }

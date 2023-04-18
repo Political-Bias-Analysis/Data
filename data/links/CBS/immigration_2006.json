@@ -3,7 +3,10 @@
         "immigration"
     ],
     "Links": [
-        "https://www.cbsnews.com/news/have-white-suit-will-travel/?intcid=CNM-00-10abd1h"
+        {
+            "link": "https://www.cbsnews.com/news/have-white-suit-will-travel/?intcid=CNM-00-10abd1h",
+            "bias": "immigration"
+        }
     ],
     "Year": 2006
 }

@@ -4,7 +4,10 @@
         "border"
     ],
     "Links": [
-        "https://www.cbsnews.com/news/face-the-nation-transcript-may-17-2015-walker-nunes-gates/?intcid=CNM-00-10abd1h"
+        {
+            "link": "https://www.cbsnews.com/news/face-the-nation-transcript-may-17-2015-walker-nunes-gates/?intcid=CNM-00-10abd1h",
+            "bias": "border"
+        }
     ],
     "Year": 2015
 }
