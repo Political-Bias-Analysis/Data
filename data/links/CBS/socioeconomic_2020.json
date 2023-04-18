@@ -1,0 +1,669 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/puerto-ricans-florida-trump/?intcid=CNM-00-10abd1h",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-black-voters-african-american-unemployment-racist/?intcid=CNM-00-10abd1h",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-long-lines-and-voting-machine-problems-plague-georgia-elections-2020-06-09/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-ohio-wraps-up-mail-in-primary/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-u-s-postal-service-warns-states-that-mail-in-ballots-might-not-be-counted-in-time-2020-08-14/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-presidential-election-rising-american-electorate/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/rnc-nikki-haley-tim-scott-speeches/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/iran-emails-florida-alaska-arizona-no-evidence-breaches/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/coronavirus-reshapes-special-contest-for-maryland-seat-in-congress/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/kenosha-wisconsin-jacob-blake-shooting-protest-second-night/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/florida-emails-proud-boys-vote-trump-linked-overseas-servers/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/unemployment-benefits-12-million-americans-lose-after-christmas/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-cut-school-funding-coronavirus/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/florida-election-coronavirus-pandemic-get-out-the-vote/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/postal-service-changes-slow-mail-federal-judge-blocks/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-fundraising-more-than-enough-money-to-beat-trump-face-the-nation/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-on-march-8-2020/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-what-to-know-about-tuesdays-primaries-in-6-states-2020-03-09/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/election-day-us-younger-generation-poll-workers-shortage/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-campaign-transfers-3-million-to-wisconsin-for-recount/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/republican-women-congress-record-number/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/coronavirus-remains-central-to-battleground-pennsylvania-house-races/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/georgia-exit-polls-senate-runoff-elections/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-relocates-to-walter-reed-after-covid-19-diagnosis/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/california-artists-try-to-adapt-to-new-world-wrought-by-pandemic/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-46-5-million-fundraising-2020-campaign-record-february/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/pence-and-harris-camps-still-negotiating-venue-measures-ahead-of-debate/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/former-top-dni-official-sue-gordon-discusses-circumstances-of-her-departure-from-odni-transcript/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-most-americans-support-more-funding-for-postal-service-to-handle-mail-in-ballots-poll-finds-2020-08-20/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-campaign-launches-ad-blitz-encouraging-vote-by-mail-2020-10-16/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/dhs-bulletin-says-russia-amplifying-criticisms-of-mail-voting-to-undermine-trust-in-electoral-process/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-warren-endorses-biden/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/texas-reduces-mail-in-ballot-drop-off-locations-2020-election/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-nevada-caucus-eve-edition-2020-02-21/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/voter-registration-efforts-covid-19-coronavirus-pandemic-november-2020/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-on-october-18-2020/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/blue-collar-boom-fact-checking-trump-state-of-the-union-worker-income-and-manufacturing-job-claims/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-candidates-chase-cash-as-july-comes-to-a-close/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-biden-projected-winner-of-michigan-and-wisconsin-but-legal-challenges-loom-2020-11-04/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-where-mike-bloomberg-spent-570-million-during-his-campaign/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-campaign-insists-it-has-a-real-health-care-plan-2020-09-17/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/gop-state-politicians-call-on-big-ten-commissioner-to-allow-football-season/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-indiana-becomes-latest-state-to-delay-primary-due-to-coronavirus-2020-03-20/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-says-of-course-im-disappointed-after-super-tuesday/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/national-security-analyst-graham-allison-on-second-mutually-assured-destruction-a-u-s-china-climate-conflict/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/barack-obama-dnc-2020-day-3-democratic-convention-speech-trump-rebuke/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-how-the-veepstakes-will-go-on-amid-coronavirus-2020-04-13/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-biden-challenged-to-pick-black-woman-as-running-mate-2020-04-27/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/eliot-engel-jamaal-bowman-primary-election-new-york-16/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-pete-buttigieg-goes-to-the-mattresses/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-warren-and-sanders-set-to-take-the-gloves-off-at-tuesdays-debate/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-supporters-reluctant-2020-campaign/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/catholic-church-coronavirus-aid-lobbying/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-down-ballot-democrat-races-endorsement/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/sanders-and-biden-tangle-over-trade-in-democratic-primaries-in-rust-belt/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-majority-of-americans-worried-about-reopening-country-too-fast/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-calls-off-jacksonville-portion-of-republican-convention/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-3283000-americans-filed-for-unemployment-last-week/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-on-august-9-2020/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-bloomberg-twitter-feud-heats-up/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-iowa-chaos-lingers-ahead-of-new-hampshire/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/new-york-times-endorses-two-candidates-for-presidency-for-first-time/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-democratic-presidential-front-runner-anderson-cooper-60-minutes/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-democratic-presidential-candidate-anderson-cooper-60-minutes-2020-02-23/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/coronavirus-pennsylvania-grads-uncertain-future/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/postal-service-coronavirus-relief-november-election-2020-08-13/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-senator-chris-coons-on-face-the-nation-september-27-2020/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-early-voting-kicked-off-today-in-georgia-there-are-already-reports-of-long-lines-and-technical-difficulties/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/postmaster-general-testifies-dems-focus-on-mail-voting-gop-hones-in-on-usps-funding/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/aoc-reelection-new-york-house-of-representatives-second-term/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/jamaal-bowman-eliot-engel-new-york-16th-district-democratic-primary-election/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-campaign-unions-save/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-candidates-make-their-closing-iowa-arguments-ahead-of-mondays-caucuses/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-candidates-make-their-final-pitches-before-iowa/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/midwest-dems-urge-party-to-focus-on-infrequent-black-voters-rather-than-white-voters-who-backed-trump/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/usps-postal-service-employee-charged-throwing-mail-dumpster-absentee-ballots/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/michigan-governor-gretchen-whitmer-endorses-biden-days-before-primary/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-candidates-plan-for-road-ahead/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-campaign-obama-final-stretch/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/hong-kong-protests-400-arrested-in-new-years-day-protests-today-2020-01-01/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-rallies-canceled-and-live-debate-audience-called-off-amid-coronavirus-outbreak-2020-03-10/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-sanders-apologizes-to-biden-over-surrogates-op-ed/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-poll-has-pete-buttigieg-narrowly-leading-in-new-hampshire/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-campaign-adviser-symone-sanders-dispels-myth-of-disagreements/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/cbs-news-2020-battleground-tracker-5-things-to-know/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/polls-close-what-time-march-10-primary-election/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-reince-priebus-on-face-the-nation-october-11-2020/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/down-ballot-candidates-walk-a-fine-line-raising-cash-in-middle-of-a-pandemic/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-everything-you-need-to-know-about-tonights-iowa-caucuses/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/iowa-democratic-candidates-bombard-airwaves-in-final-stretch-of-campaigning-2020-02-01/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-rally-milwaukee-today-campaign-university-of-wisconsin-panther-arena-2020-01-14-live-stream/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-tax-plan-comparison-trump/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-wisconsin-supreme-court-rules-green-party-wont-be-on-the-ballot-in-the-state-2020-09-14/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democrats-devastated-and-reflective-after-house-gop-exceeds-expectations/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/president-elect-joe-biden-vice-president-elect-kamala-harris-watch-live-stream-2020-11-07/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-trump-poll-presidential-election-wisconsin-arizona-2020-10-17/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-economic-club-new-york-recovery-jobs/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-campaign-trump-unpopular-coronavirus-response/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-campaign-15-million-advertisements-six-battleground-states/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/terry-mcauliffe-announces-run-virginia-governor-second-term/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-supreme-court-rules-on-trump-financial-records/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/income-inequality-in-america-how-98-trillion-of-household-wealth-is-distributed/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/second-stimulus-check-bill-congress-government-qualify/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elizabeth-warren-dropping-out-of-presidential-race-after-disappointing-super-tuesday-finish/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/lawfare-institutes-david-priess-on-the-presidential-daily-brief/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/fiona-hill-russia-advisor-president-trump-impeachment-lesley-stahl-60-minutes-2020-03-08/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-august-23-2020/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-prescription-drug-prices-announcement-live-stream-today-2020-11-20/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/super-tuesday-state-delegates-polls-candidates/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/social-security-2021-cola-retirees-to-get-extra-20-a-month-on-average-in-2021/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-buckle-up-for-the-senate-impeachment-trial/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-signs-executive-orders-unemployment-benefits-economy/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-on-november-8-2020/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democrats-ad-spend-battleground-senate-races-republicans/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-democratic-presidential-candidate-kamala-harris-60-mintues-interview-norah-odonnell-2020-10-25/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/wisconsin-supreme-court-voter-purge-case-election-day/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-sen-joe-manchin-on-face-the-nation-november-8-2020/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-election-covid-gop-battleground-state-issue/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-hits-the-campaign-trail-in-nebraska/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-in-person-voting-is-out-in-next-round-of-primaries-2020-03-23/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-and-the-economy-what-it-means-for-you-wallet/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-rep-cedric-richmond-on-face-the-nation-november-8-2020/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-dnc-like-none-other-kicks-off-2020-08-17/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-how-local-leaders-are-planning-for-the-dnc-and-rnc-2020-05-15/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-presidential-election-south-carolina-black-voters-democrats-joe-biden/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/pete-buttigieg-ramps-up-rhetoric-against-joe-biden-bernie-sanders/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/nevada-caucuses-health-care-culinary-workers-union/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-as-iowa-looms-biden-and-sanders-continue-to-exchange-punches/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/cedric-richmond-defund-the-police-democrats-house-seats-election-face-the-nation/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-sanders-policies-medicare-college-debt/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-coronavirus-and-the-campaign-trail-2020-03-13/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-all-eyes-on-michigan-the-biggest-delegate-prize-in-tuesdays-primaries-2020-03-06/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/pete-buttigieg-2020-democratic-primary-presidential-drop-out/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democrats-lean-into-health-care-ads-as-the-coronavirus-halts-conventional-campaigning/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-drops-out-suspending-campaign/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-debate-south-carolina-campaign-updates-daily-trail-markers/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/klobuchar-i-can-govern-with-republican-party-reshaped-by-trump-better-than-joe-biden-can/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-heavily-outspends-trump-closing-weeks-presidential-campaign/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-harris-fanned-the-flames-vs-its-time-to-unite-the-country-how-the-two-campaigns-ads-differ/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-candidates-for-prosecutor-explore-defund-the-police/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-kennedy-ed-markey-massachusetts-primary-senate/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/postal-service-delays-medications-life-saving-patients/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-6-6-million-americans-filed-initial-unemployment-claims/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-rural-governors-tell-trump-theyre-struggling-to-get-supplies/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/cardi-b-interviews-joe-biden-racism-justice-black-people/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-battling-the-opioid-crisis-amid-coronavirus-2020-04-03/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/tom-coburn-former-republican-senator-and-oklahoma-physician-has-died/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/what-amy-klobuchar-is-going-to-do-next/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/new-hampshire-primary-ice-fishing-with-voters-ahead-of-2020-election/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/crush-of-obamacare-signups-expected-before-deadline/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/aoc-plays-among-us-twitch-most-watched-streams/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-biden-opinion-poll-florida-texas-09-20-2020/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/kamala-harris-vice-presidential-candidate-joe-biden-2020/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/coronavirus-relief-bill-stimulus-phase-4-mnuchin-meadows-capitol-hill/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-supporting-joe-biden-2020-sexual-assault-allegations-defeating-trump/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-says-opposing-joe-biden-is-irresponsible/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-coronavirus-plan-slams-trump-incompetence-recklessness/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/super-tuesday-klobuchar-dropping-out-of-2020-race-and-endorsing-biden/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/pete-buttigieg-minority-voters-south-carolina-super-tuesday-primaries/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/tim-scott-bernie-sanders-democrat-biggest-threat-trump/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-clemency-who-are-others/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/federal-deficit-to-top-1-trillion-this-year-cbo-says/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/with-a-flurry-of-endorsements-bernie-sanders-shores-up-nevada-support/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/where-is-marijuana-legal-in-2020-illinois-joins-10-other-states-legalizing-recreational-pot-2020-01-01/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2020
+}

@@ -1,0 +1,193 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/is-the-u-s-economy-shortening-peoples-lives/?intcid=CNM-00-10abd1h",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/for-many-supporters-donald-trump-is-a-thing-called-hope/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-offers-frank-analysis-of-democratic-election-losses/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-says-hes-prepared-to-work-with-donald-trump/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-book-sales-soar-after-election-victory/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-deeply-humiliated-democrats-cant-talk-to-working-class/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/government-shutdown-averted-senate-stopgap-spending-bill/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/six-assumptions-about-politics-that-are-no-longer-true-after-trumps-victory/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/white-working-class-voters-flipped-wisconsin-red/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trumps-support-in-rural-georgia/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/labor-secretary-tom-perez-plans-to-jump-into-race-for-dnc-chairman/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-wont-be-democratic-national-committee-chair/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/what-do-cbs-news-correspondents-predict-will-happen-in-2017/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/these-things-have-all-correctly-predicted-the-presidential-election-results-for-decades/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trumps-team-to-raise-millions-for-inauguration-events/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/the-view-of-voters-in-west-virginia-coal-country/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/need-to-vent-election-stress-theres-a-place-for-that/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/face-the-nation-transcript-november-6-2016-kaine-priebus/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/dnc-chair-south-bend-mayor-pete-buttigieg-weighs-bid/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/commentary-the-unbearable-smugness-of-the-press-presidential-election-2016/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/thousands-protest-trump-victory-across-nation/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elections-2016-donald-trump-final-campaign-michigan/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/target-justice-48-hours-probes-texas-prosecutor-killings-hasse-mclelland/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/carrier-corp-announces-deal-with-trump-to-keep-jobs-in-indiana/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/schools-nationwide-report-racially-charged-incidents-after-election/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/odds-of-americans-earning-more-than-their-parents-have-plunged/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/protests-rage-in-major-cities-for-second-day-after-trumps-victory/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/comparing-trump-to-past-presidents-when-did-they-hold-their-first-news-conferences/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/donald-trumps-final-punishing-campaign-blitz/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/donald-trumps-cabinet-14-billion-of-wealth-and-counting/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/top-senate-democrat-republicans-will-rue-the-day-they-repeal-obamacare/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/nc-gop-ignores-protests-pushes-to-strip-dem-governor-of-power/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/linda-mcmahon-donated-7-million-to-elect-trump/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/the-fight-for-melissa-calusinski-was-day-care-worker-convicted-in-toddler-ben-kingans-death-wrongly-convicted/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/donald-trumps-hhs-pick-favors-dismantling-obamacare-privatizing-medicare/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/nancy-pelosi-democrats-wont-work-with-trump-to-privatize-medicare-va/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/the-election-that-forgot-americas-disabled/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/what-trumps-win-could-mean-for-older-americans/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/this-morning-from-cbs-news-dec-20-2016/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-blasts-donald-trumps-cabinet-of-billionaires/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/nancy-pelosi-proposes-changes-to-house-democratic-caucus/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/poll-only-about-1-in-4-want-donald-trump-to-repeal-obamacare/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/this-morning-from-cbs-news-nov-30-2016/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/obamacare-subsidies-to-jump-10-billion-in-2017/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/in-2017-gop-sees-mandate-to-undo-obamas-agenda/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2016
+}

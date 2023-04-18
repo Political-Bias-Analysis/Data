@@ -1,0 +1,21 @@
+{
+    "Biases": [
+        "Abortion",
+        "Pro-life"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-face-the-nation-full-transcript-02-19-2023/?intcid=CNM-00-10abd1h",
+            "bias": "Pro-life"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/chinese-spy-balloon-fallout-intelligence-matters/?intcid=CNM-00-10abd1h",
+            "bias": "Pro-life"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/chinas-buildup-of-the-surveillance-state-intelligence-matters/?intcid=CNM-00-10abd1h",
+            "bias": "Pro-life"
+        }
+    ],
+    "Year": 2023
+}

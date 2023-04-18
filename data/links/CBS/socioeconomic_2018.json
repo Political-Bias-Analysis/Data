@@ -1,0 +1,408 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/washington-eyes-welfare-reform-but-its-entitlement-spending-that-looms-large/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/chris-hughes-facebook-co-founder-says-platform-should-reckon-with-bad-actors/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/oregon-approves-new-taxes-to-address-medicaid-costs/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/oregon-to-ask-voters-to-decide-how-to-pay-for-skyrocketing-medicaid-costs/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/north-carolina-acts-deep-blue-in-passing-state-worker-minimum-wage-hike/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/congressional-district-races-top-house-races-to-watch-on-2018-midterms-election-night/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/cbs-news-battleground-tracker-how-does-this-model-estimate-work/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-barnstorming-country-ahead-of-midterm-elections/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-to-rally-for-congressional-candidate-targeted-by-racially-charged-ads/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-injects-tax-cut-talk-in-in-the-closing-weeks-of-midterm-campaign/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/midwest-primaries-test-trump-appeal-against-blue-wave/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/france-protests-yellow-vests-president-emmanuel-macron-tax-relief-year-end-bonus-speech-today-2018-12-10/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/ocasio-cortez-fires-back-at-conservative-tv-host-who-shared-photo-of-her-childhood-home/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/shirley-chisholm-first-black-congresswoman-revered-on-capitol-hill-50-years-after-her-election/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/epa-security-chief-also-worked-for-tabloid-owner-who-supports-trump/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/white-collar-jobs-leave-dwindling-factory-towns-too/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/stormy-daniels-describes-her-alleged-affair-with-donald-trump-60-minutes-interview/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/free-college-programs-sound-great-but-do-they-work/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/illinois-primary-election-jb-pritzker-wins-democratic-nod-for-governor/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-rep-joe-crowley-on-face-the-nation-july-15-2018/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/lines-that-divide-how-community-type-and-college-are-dividing-america/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-face-the-nation-on-march-25-2018/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/george-h-w-bush-remembering-the-41st-president-of-the-united-states-60-minutes/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-parkland-students-jaclyn-corin-ryan-deitsch-delaney-tarr-cameron-kasky-emma-gonzalez-on-face-the-nation-march-25-2018/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-face-the-nation-on-march-18-2018/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-sen-bob-corker-on-face-the-nation-march-18-2018/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/house-republicans-aim-to-expand-tax-law-amid-midterm-election-push/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/michael-bloomberg-gives-another-10-million-to-help-democrats-ahead-of-midterms/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/alex-stamos-facebook-chief-security-officer-leaving-2018-08-01/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/competing-u-s-factions-seek-to-sway-arrivals-from-puerto-rico-before-vote/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/commentary-why-union-should-be-just-the-beginning/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/kaniela-ing-democratic-socialist-hawaii-endorsed-by-alexandria-ocasio-cortez/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/how-to-boost-democracy-give-workers-paid-time-off-to-vote-some-companies-say/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/banking-bill-tests-schumers-messy-midterm-strategy-for-democrats/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/economy-fact-check-sugar-high-may-not-last-into-2019/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-campaigns-for-democratic-candidates-in-florida-rally-today-10-23-2018/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/irs-faces-huge-burden-administering-the-new-tax-law/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/ahead-of-midterms-gop-incumbents-on-defense-over-2017-tax-vote-in-high-tax-states/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-files-for-extension-on-his-taxes/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/investors-ignore-income-inequality-at-their-peril/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/colombia-elecitons-ivan-duque-conservative-leftist-gustavo-petro-head-contentious-runoff-2018-05-27/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elizabeth-warren-takes-formal-step-toward-presidential-candidacy/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-2020-vice-president-could-be-democrats-best-bet-new-iowa-caucus-poll-finds/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/why-new-york-gov-andrew-cuomo-has-a-race-on-his-hands-for-re-election/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-appears-to-be-embracing-potential-for-trade-war/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/mike-bloomberg-mulls-presidential-bid/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/new-hampshire-primary-election-candidates-results-molly-kelly-chris-pappas-today-2018-09-11/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/senator-kirsten-gillibrand-advice-for-women-mulling-a-political-run/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/impeach-trump-biden-i-hope-they-dont-if-democrats-retake-the-house-in-midterms/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/nafta-deal-canada-us-mexico-reach-trade-deal-agreement-rename-usmca-today-2018-10-01/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/senate-confirms-charles-rettig-to-be-irs-commissioner/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/us-mexico-trade-agreement-is-hardly-a-done-deal/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-stock-market-crash-impeached/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/watchdog-trump-administration-needs-to-step-up-management-of-obamacare-signups/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-endorses-stacey-abrams-for-georgia-governor/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/alexander-gauland-calls-nazi-era-a-speck-of-bird-poop-in-german-history/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/sex-and-the-city-actress-cynthia-nixon-running-for-ny-governor-against-andrew-cuomo/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-administration-officials-fan-out-to-sell-tax-overhaul/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/former-obama-advisor-sperling-says-trump-trade-policy-wont-pay-off/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/incoming-house-members-prep-for-dos-and-donts-on-the-hill/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/advisers-say-joe-biden-to-decide-on-a-2020-run-by-january/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bahrain-nabeel-rajab-prison-human-rights-donald-trump-show-some-spine/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/is-medicare-for-all-a-winning-message-for-midterm-election-dscc-chairman-weighs-in/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/will-trumps-budget-lower-medicare-drug-costs-not-for-some/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democrats-wrestle-with-election-year-message-on-health-care/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/study-medicare-for-all-plan-touted-by-bernie-sanders-would-cost-32-6-trillion/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/liberal-group-rolls-out-medicare-extra-for-all-proposal/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/midterm-elections-2018-how-race-results-could-affect-the-economy/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/conservatives-lash-out-at-gop-spending-binge/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-prescription-drug-prices-plan-announcement-2018-05-11/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/this-week-in-politics-rnc-breaks-another-record-builds-on-fundraising-advantage/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democrats-in-tough-reelection-battles-distance-themselves-from-washington/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/for-many-female-vets-the-next-mission-is-to-run-for-office/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/primary-night-takeaways-democratic-optimism-women-advance/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/can-democrat-beto-orourke-beat-ted-cruz-in-texas/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-eric-edelman-talks-with-michael-morell-on-intelligence-matters-podcast/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-prescription-drug-pricing-costs-speech-today-10-25-18-live-stream-updates/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/andrew-gillum-says-florida-cant-do-single-payer-alone/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-gdp-growth-unemployment-rate-tweet-fact-check-2018-09-10/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/what-voters-want-congress-to-fix-about-health-care/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democrat-elissa-slotkin-tells-of-mothers-ovarian-cancer-in-new-ad/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-slams-republican-party-as-being-bankrupt-intellectually/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/commentary-alexandria-ocasio-cortez-becomes-the-sarah-palin-of-the-left/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/ayanna-pressley-defeats-dem-rep-michael-capuano-in-upset-primary-victory/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-and-alexandria-ocasio-cortez-on-their-progressive-push-in-deep-red-states/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/florida-senate-race-recount-ends-with-rick-scott-leading-bill-nelson-by-10000-votes-2018-11-18/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/north-carolina-congressional-race-could-be-key-in-battle-for-the-house/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/close-ohio-race-called-for-republican-troy-balderson/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/nevadas-jacky-rosen-shows-latest-democratic-push-for-health-care-in-2018-with-new-ad-buy/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/what-missouri-voters-care-about-ahead-of-midterms/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/tight-contests-mark-critical-senate-races-cbs-news-battleground-tracker-poll/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/gop-senate-candidate-leah-vukmir-says-she-supports-coverage-of-pre-existing-conditions/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/record-number-of-women-file-to-run-for-u-s-house-seats/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/rhode-island-governor-faces-challenge-in-wednesday-primary/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/levi-sanders-says-if-hes-elected-nancy-pelosi-wont-be-his-choice-to-lead-house-dems/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/alexandria-ocasio-cortez-on-west-coast-fundraising-tour/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/report-steny-hoyer-encouraged-democrat-to-leave-congressional-race/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-sen-bernie-sanders-on-face-the-nation-april-1-2018/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/government-shutdown-may-be-first-since-2013-but-isnt-unheard-of/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2018
+}

@@ -1,0 +1,63 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/mark-warner-marco-rubio-face-the-nation-transcript-01-29-2023/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-02-2023/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/mike-pence-iowa-visit-today-2023-03-29-2024-decision/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2024-presidential-election-republicans-entitlement-reforms-ron-desantis-donald-trump-joe-biden/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/cbs-news-poll-debt-ceiling-large-majority-support-raising-limit-to-avoid-default/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-face-the-nation-01-29-2023/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/kevin-mccarthy-face-the-nation-transcript-01-29-2023/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-wisconsin-state-of-the-union/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/insulin-prices-diabetes-activists-hashtags/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-centrist-challenge-possible-ro-khanna/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/jim-clyburn-interview-joe-biden-2024-reelection-campaign/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/lbj-lyndon-johnson-and-his-monumental-presidency/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/house-financial-services-chairman-patrick-mchenry-says-u-s-wont-default-this-year-the-takeout/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2023
+}

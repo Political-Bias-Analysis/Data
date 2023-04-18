@@ -2,5 +2,19 @@
     "Biases": [
         "immigration"
     ],
-    "Articles": []
+    "Articles": [
+        {
+            "headline": "Adrienne Bard",
+            "author": "",
+            "source": "CBS",
+            "published_date": {
+                "month": "February",
+                "day": 24,
+                "year": 2010
+            },
+            "article_content": "Back to CBS News Radio.     Adrienne Bard has covered virtually every major news story in Mexico for CBS News Radio since 1994; from the Zapatista uprising in Chiapas to Pope John Paul II's visit to Cuba to Mexico's 2006 presidential elections. Bard has  traveled to report major news events elsewhere in Latin America, including Cuba, Venezuela, Honduras, Guatemala, Panama, El Salvador and Nicaragua. Her beat extends to the U.S.-Mexico border where she has reported on illegal immigration, drug trafficking, tainted produce, the maquiladora industry and the Ciudad Juarez murders. Bard earned a Masters Degree in Journalism at Columbia University (M.S. 1985) and studied both Journalism and History at the University of California, Berkeley (dual B.A.'s 1980). She speaks fluent Spanish and has studied French, Hebrew and Italian. Her television credits include Associate Producer for CBS News' 60 Minutes & for PBS' Frontline documentaries on Mexican politics and Drug Wars, along with on-camera appearances for CBS News' \"Up to the Minute\" and \"The Early Show.\" In 2005, she contributed to an award-winning series in The Oregonian about  Mexico's role in the methamphetamine epidemic. She has reported on Mexico for Business Week, Time, People and Bon Appetit and also worked in the New York Times' Mexico City bureau.",
+            "bias": "immigration",
+            "url": "https://www.cbsnews.com/news/adrienne-bard/?intcid=CNM-00-10abd1h"
+        }
+    ]
 }

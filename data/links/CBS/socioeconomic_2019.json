@@ -1,0 +1,745 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/new-hampshire-south-carolina-democrats-express-skepticism-about-deval-patricks-chances/?intcid=CNM-00-10abd1h",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/gop-tim-alberta-american-carnage-why-the-republican-party-is-locked-in-a-cage-of-fear-about-president-trump/?intcid=CNM-00-10abd1h",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/billionaire-investor-ray-dalio-capitalism-run-amok-economically-stupid-and-needs-reform-as-u-s-faces-existential/?intcid=CNM-00-10abd1h",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-trumps-digital-ads-on-impeachment-are-largely-aimed-at-base-says-digital-firm/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bolivia-evo-morales-flees-coup-exile-mexico-leaves-chaos-in-his-wake-today-2019-11-12/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-sunday-trail-markers-biden-leads-field-in-first-cbs-battleground-tracker-poll/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-candidates-reveal-fundraising-totals-ahead-of-fec-deadline/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-swalwell-becomes-first-casualty-of-2020-primary-race/?intcid=CNM-00-10abd1h",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/the-economys-hidden-problem-working-class-men-without-jobs/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-2020-senator-says-ultra-wealthy-are-addicted-to-money-exclusive-interview-2019-10-26/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-and-biden-fighting-for-trump-voters/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-kamala-harris-shuts-down-field-offices-in-new-hampshire/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/pete-buttigieg-unveils-proposal-for-affordable-college/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/north-carolina-teacher-wants-his-7th-graders-to-know-why-he-marches/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-sunday-trail-markers-what-to-watch-for-in-the-democratic-debate-2019-10-13/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-campaign-responds-to-twitter-ban-on-political-ads/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-2020-pittsburgh-rally-live-stream-today-running-for-president-2019-04-29-updates/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/women-centric-workspaces-are-on-the-rise/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-interview-full-transcript-watch-video-norah-odonnell-60-minutes-exclusive-2019-10-27/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/andrew-yang-qualifies-democratic-debate-stage-automation-robots/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/amazon-seattle-washington-amazon-spends-big-to-remake-seattles-liberal-city-council/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-sunday-trail-markers-the-democratic-field-responds-to-isis-leaders-killing-by-u-s-forces/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-adam-smith-talks-with-michael-morell-on-intelligence-matters/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-says-hes-grateful-anita-hill-took-his-call/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/israel-election-today-israeli-prime-minister-benjamin-netanyahu-majority-exit-polls-2019-09-17/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-joe-biden-pushes-back-on-trumps-claims/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bill-clinton-and-barack-obama-have-advice-for-2020-democratic-presidential-candidates-if-theyll-listen/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-2020-former-vice-president-running-for-president-watch-video-announcement-today-2019-04-25/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/kamala-harris-2020-presidential-campaign-logo-pays-tribute-to-shirley-chisholm/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/meet-the-next-generation-of-house-democratic-leaders/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-preet-bharara-talks-with-michael-morell-on-intelligence-matters/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-what-to-look-for-at-tonights-debate/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-dennis-ross-talks-with-michael-morell-on-intelligence-matters/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/excerpt-seth-godins-the-dip-on-the-benefit-of-strategic-quitting/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-on-september-8-2019/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-on-june-16-2019/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/full-transcript-60-minutes-interview-with-fed-chair-jerome-powell/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-sunday-trail-markers-trump-democratic-challengers-to-attend-same-forum/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-republicans-face-tough-races-in-kentucky-mississippi/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-releases-plan-to-strengthen-unions/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-debates-2019-07-30-cnn-detroit-debate-democrats-plot-a-comeback-in-michigan/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-2020-international-association-of-firefighters-endorses-biden-for-president/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-gives-first-speech-after-allegations-of-inappropriate-behavior-today-2019-04-05-live-stream/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-2020-running-for-president-announcement-full-transcript-today-2019-02-19/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/the-five-big-things-you-need-to-understand-about-the-democratic-primary-right-now/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democrats-go-west-the-nevada-caucus-california-the-big-bloomberg-ad-buy/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-congressman-tim-ryan-ends-his-presidential-campaign/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bill-de-blasio-2020-says-he-knows-how-to-take-on-a-bully-like-trump-in-campaign-roll-out/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-debate-deval-patrick-surprised-by-joe-biden-awkward-answer-busing-question-2019-06-28/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/michael-bloomberg-to-put-500m-into-closing-all-remaining-coal-plants-by-2030/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-voters-hungry-for-women-and-people-of-color-in-2020-nomination/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-campaign-announces-it-raised-25-million-in-third-quarter/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/california-democratic-convention-2020-hopefuls-today-2019-06-01/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/why-is-bill-de-blasio-running-for-president-why-not/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-joe-biden-looks-to-temper-expectations/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-knocks-rivals-for-taking-donations-from-billionaires/?intcid=CNM-00-10abd1h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-debates-2019-07-30-democrats-demur-on-whether-their-healthcare-plan-involves-middle-class-tax-hike/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/kamala-harris-woos-iowans-with-message-for-the-middle-class/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/pete-buttigieg-2020-press-conference-after-announcing-running-for-president-today-live-stream/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/michael-bloomberg-running-for-president-launching-2020-campaign-with-multimillion-dollar-ad-blitz/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/can-union-member-stomach-medicare-for-all/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bidens-earned-over-15-million-since-2016/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elizabeth-warrens-iowa-debut/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-buttigieg-on-merkel-macron-iran-and-china/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-jeff-sessions-mounts-a-comeback-bid-for-senate/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elizabeth-warren-medicare-for-all-warren-transition-version-bernie-sanders-biden-buttigieg-react/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elizabeth-warren-would-love-to-explain-wealth-tax-plan-to-bill-gates/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/nancy-pelosi-doesnt-like-impeachment-or-medicare-for-all/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/as-dems-debate-facts-about-economy-taxes-health-care-wages-income-inequality-and-more/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/pete-buttigieg-2020-presidential-candidate-on-black-voters-trump-impeachment-inquiry-campaign-contributions/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/cbs-news-battleground-tracker-biden-with-edge-in-super-tuesday-states-bloomberg-in-5th/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-heading-south-for-first-campaign-trip-to-south-carolina/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/iowa-dinner-candidates-spar-over-health-care-2019-11-02/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elizabeth-warren-overtakes-joe-biden-in-new-quinnipiac-poll-democratic-field-2020/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/buttigieg-klobuchar-each-raise-more-than-1-million-in-24-hours-after-debate/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/rand-paul-cbs-this-morning-defends-trump-over-zelensky-call-and-syria-today-2019-10-10/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/income-inequality-in-america-is-at-its-highest-level-in-more-than-50-years-census-report-today-shows/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/pete-buttigieg-pushes-a-better-option-for-health-care-aboard-iowa-bus-tour/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/us-soldier-arrested-jarrett-william-smith-allegedly-shared-bomb-making-instructions-and-discussed-killing-beto/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elizabeth-warren-2020-the-contenders-political-party-views-stance-issues-age-candidate-for-president-live-updates-2019-02-09/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/stacey-abrams-to-give-democratic-response-to-state-of-the-union/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/justin-amash-district-might-abandon-trump-too/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/what-are-democrats-looking-for-in-2020-who-can-beat-trump/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-2020-current-health-care-policy-an-irrational-system-elizabeth-warren/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/kamala-harris-continues-to-clarify-her-stance-on-medicare-for-all/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/nearly-40-of-americans-cant-cover-a-surprise-400-expense/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-2020-obama-says-biden-is-nowhere-close-to-finished-in-new-campaign-ad-for-former-vp/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-raised-6-3-million-in-first-24-hours-campaign-says/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/paris-riots-mother-child-saved-from-bank-fire-champs-elysees-avenue-today-2019-03-16/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/new-jersey-gov-phil-murphy-minimum-wage-increase-today-2019-02-04/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elizabeth-warren-rachel-maddow-first-television-appearance-tonight-2019-01-02/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/egypt-president-el-sisi-denies-ordering-massacre-in-interview-his-government-later-tried-to-block-60-minutes-2019-01-06/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-is-trying-to-win-over-iowa-seniors-enamored-with-buttigieg/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-defends-his-track-record-on-race-after-debate-stage-clash-with-harris/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/dianne-feinstein-video-senator-tells-youth-climate-change-activists-i-know-what-im-doing-2019-02-22/?intcid=CNM-00-10abd1h",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/medicare-open-enrollment-a-do-over-chance-for-medicare-advantage-plans-by-march-31-2019/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bloombergs-path-to-the-presidency-begins-in-arizona/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/pete-buttigiegs-answer-to-medicare-for-all-includes-a-public-option/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/medicare-for-all-emerges-as-first-litmus-test-for-2020-democratic-contenders/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/house-passes-bill-to-lower-prescription-drug-costs-along-party-lines/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/presidential-election-2020-one-year-out-what-matters-to-voters/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-presidential-election-where-all-the-2020-democratic-presidential-candidates-stand-on-healthcare/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/emotional-town-halls-become-centerpiece-of-bernie-sanders-campaign/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/richard-trumka-top-labor-leader-says-2020-democrats-must-consider-union-brokered-health-insurance-plans/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-debates-2019-07-31-kamala-harris-and-joe-biden-spar-over-health-care-plans/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-says-he-will-release-his-tax-returns-by-april-15/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/amy-klobuchar-unveils-plan-to-address-medical-needs-of-americas-aging-population/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/harris-clarifies-debate-answer-on-eliminating-private-insurance/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/battle-for-small-donors-forces-2020-democrats-to-get-creative-with-merchandise/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-what-to-look-for-in-thursdays-democratic-debate/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-what-the-democratic-frontrunners-must-do-at-tuesdays-debate/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/u-s-budget-deficit-hits-highest-level-in-7-years-despite-trumps-promise-to-eliminate-it-today-2019-10-25/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-vows-to-cut-prescription-drug-prices-by-half-if-hes-elected/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/indiana-mayor-pete-buttigieg-touts-more-experience-in-government-than-trump/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/cory-booker-says-nation-needs-revival-of-civic-grace-ahead-of-2020-race/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-thanksgiving-plans-for-the-candidates-some-are-staying-on-the-trail/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-polls-2020-pete-buttigieg-rises-iowa-new-hampshire-biden-atop-delegate-hunt-latest-battleground-tracker/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/can-2020-democrats-sway-the-rural-vote-in-iowa-cbs-podcast/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/analysis-how-financially-concerned-and-comfortable-democrats-differ-on-economy-and-2020-candidates/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-2020-the-big-question-can-he-win-support-from-minorities-and-women/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-lindsey-graham-on-face-the-nation-august-25-2019/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-cbs-news-interviews-sen-chris-murphy-on-gun-control/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/what-does-socialism-mean-and-how-is-it-shaping-2020/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democrats-debate-which-proposal-is-best-to-tackle-rural-hospital-crisis/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/howard-dean-says-hed-be-shocked-if-democrats-nominate-two-white-guys-in-2020/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-house-democrats-embrace-impeachment-despite-political-risk/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/nancy-pelosi-on-60-minutes-speaker-says-socialism-not-the-view-of-the-democratic-party/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trumps-pivot-to-health-care-catches-republican-lawmakers-flat-footed/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-debates-2019-07-30-cnn-detroit-debate-coverage-today-top-takeaways-today/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-elizabeth-warren-now-knows-what-it-feels-like-to-lead-the-field/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/hickenlooper-rails-against-socialism-in-speech-targeting-bernie-sanders/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-2020-speaks-to-firefighters-amid-rumored-2020-run-live-stream/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-elizabeth-warren-apologizes-for-dna-test/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/some-new-hampshire-dems-want-bernie-sanders-ideas-but-not-sanders/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/catch-him-if-you-can-joe-biden-and-the-field-in-south-carolina-how-did-you-get-this-number-2019-12-04/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-releases-new-iowa-digital-health-care-ad-emphasizing-family/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/biden-calls-health-care-a-personal-fight-in-new-iowa-ad/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/100-democrats-walk-into-the-iowa-state-fair-here-are-their-thoughts-on-2020/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-castro-calls-on-puerto-rico-governor-to-resign/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/undaunted-by-low-polling-john-delaney-keeps-his-show-on-the-road/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/mcconnell-says-moscow-mitch-nickname-is-modern-day-mccarthyism/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/mitch-mcconnell-supreme-court-vacancy-in-2020-would-be-filled-i-if-one-came-up/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/highlights-from-60-minutes-interview-with-joe-biden-2019-10-27/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/tim-ryan-2020-who-is-the-ohio-congressman-and-latest-democrat-running-for-president/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-bernie-sanders-takes-a-break-after-health-scare/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-how-biden-got-ready-for-fight-night/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-dems-tell-naacp-its-time-to-impeach/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-candidates-debate-elizabeth-warren-joe-biden-finally-meet-on-same-stage/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-2020-campaign-manager-faiz-shakir-its-absolutely-critical-we-win-new-hampshire/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/john-hickenlooper-2020-announces-senate-run-after-dropping-out-of-white-house-race/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-presidential-candidates-views-on-transgender-issues-as-trump-administration-rolls-back-lgbtq-safeguards/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-presidential-candidates-agonize-over-fox-news-town-halls/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/the-challenges-democratic-presidential-candidates-face-in-2020/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/kirsten-gillibrand-2020-trump-gillibrand-says-shes-the-best-candidate-to-take-on-trump/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/green-new-deal-alexandria-ocasio-cortez-introduces-2020-policy-test/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/californias-gig-economy-law-is-forcing-small-businesses-to-rethink-staffing/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-cbs-news-to-co-host-democratic-debate-in-south-carolina/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-mckinsey-gives-buttigieg-go-ahead-to-disclose-clients/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/prescription-drugs-imported-from-canada-wont-lower-prices-for-american-consumers-experts-say/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/prescription-drugs-from-canada-trump-administration-takes-step-forward-on-prescription-drug-import-proposal/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/the-freedom-dividend-inside-andrew-yangs-plan-to-give-every-american-1000/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-nabs-endorsement-from-nevada-congresswoman-dina-titus/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/deval-patrick-2020-run-president-former-massachusetts-governor-break-through-crowded-democratic-field-exclusive/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/elijah-cummings-dr-maya-rockeymoore-cummings-to-run-elijah-cummings-congressional-seat-2019-11-11/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/michael-bennet-2020-slams-idiotic-dnc-rules-that-kept-him-out-of-democratic-debate/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/social-security-benefits-increasing-24-dollars/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/alexandria-ocasio-cortez-interview-bernie-sanders-endorsement-was-an-authentic-decision/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/alexandria-ocasio-cortez-to-endorse-bernie-sanders-queens-rally-democratic-primary-2019-10-19/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/michael-bennet-guarantees-he-will-stay-in-the-race-through-new-hampshire-primary/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-debates-2019-julian-castro-jabs-joe-biden-at-debate-then-defends-line-of-attack-2019-09-13/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/iowa-steak-fry-live-stream-presidential-candidates-today-2019-09-21/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-2020-democrats-hope-powerful-nevada-union-can-help-serve-them-a-win/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/john-hickenlooper-to-drop-out-of-presidential-race-mulling-run-for-senate-2019-08-15/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-daily-trail-markers-the-next-debate-lineup-is-now-set/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/new-york-democrats-face-primary-challenges-from-progressive-candidates-2019-07-13/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/2020-sunday-trail-markers-what-to-know-about-this-weeks-big-fec-filings/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-speech-live-stream-defends-democratic-socialism-in-speech-george-washington-university-today-2019-06/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/michael-bennet-2020-michael-bennet-running-for-president/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-raised-18-million-in-first-quarter/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/transcript-rep-hakeem-jeffries-on-face-the-nation-march-24-2019/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/john-hickenlooper-on-face-the-nation-im-happy-to-say-im-a-capitalist-but-labels-divide-democrats/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/new-hampshire-democrats-scope-out-2020-hopefuls-during-busy-campaign-weekend-2019-02-20/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/bernie-sanders-raises-6-million-in-first-24-hours/?intcid=CNM-00-10abd1h",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2019
+}

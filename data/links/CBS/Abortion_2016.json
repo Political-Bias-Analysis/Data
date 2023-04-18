@@ -1,0 +1,17 @@
+{
+    "Biases": [
+        "Abortion",
+        "planned parenthood"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/anti-defamation-league-fights-antisemitism-racism-hate-after-donald-trump-election/?intcid=CNM-00-10abd1h",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/this-morning-from-cbs-news-dec-15-2016/?intcid=CNM-00-10abd1h",
+            "bias": "planned parenthood"
+        }
+    ],
+    "Year": 2016
+}

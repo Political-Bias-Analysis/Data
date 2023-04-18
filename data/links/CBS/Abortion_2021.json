@@ -1,0 +1,33 @@
+{
+    "Biases": [
+        "Abortion",
+        "Pro-choice"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/what-to-expect-from-the-insurrectionists-who-stormed-the-capitol/?intcid=CNM-00-10abd1h",
+            "bias": "Pro-choice"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/joe-biden-amazon-warehouse-workers-alabama-union-video/?intcid=CNM-00-10abd1h",
+            "bias": "Pro-choice"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/?intcid=CNM-00-10abd1h",
+            "bias": "Pro-choice"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/amazon-union-alabama-vote-against/?intcid=CNM-00-10abd1h",
+            "bias": "Pro-choice"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/amazon-union-vote-illegal-interference-claims/?intcid=CNM-00-10abd1h",
+            "bias": "Pro-choice"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/labor-targets-amazon-as-a-union-foothold-in-the-south/?intcid=CNM-00-10abd1h",
+            "bias": "Pro-choice"
+        }
+    ],
+    "Year": 2021
+}

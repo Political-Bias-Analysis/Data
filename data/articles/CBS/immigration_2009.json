@@ -1,0 +1,21 @@
+{
+    "Biases": [
+        "immigration",
+        "refugees"
+    ],
+    "Articles": [
+        {
+            "headline": "Vicki Barker",
+            "author": "",
+            "source": "CBS",
+            "published_date": {
+                "month": "October",
+                "day": 13,
+                "year": 2009
+            },
+            "article_content": "Back to CBS News Radio.     Vicki Barker is a London-based writer and broadcaster specializing in current affairs and global economic and environmental trends. Some of her work includes covering the 2006 Lebanese war for CBS News Radio, and producing a major four-part radio documentary series on the future of globalization for the BBC World Service, \"The Changing Face of Global Power.\" She also reports for National Public Radio. Barker spent eight years as a Washington correspondent for UPI Radio before moving to London in 1989 to become London correspondent, and then London bureau chief for NBC/Mutual Radio. In 1992, Barker joined CNN's London bureau as a producer; she also reported out of London and Berlin for CNN International. Barker also spent two years freelance reporting out of London for CNN's World Business Today program, CNN News, NPR and NBC Radio. She hosted the BBC World Service's morning world news program for U.S. listeners, \"World Update,\" from its inception in 1997 until 2003. In 2005, she produced \"Reinventing the Newswheel in a World of Expanding Markets and Shrinking Natural Resources,\" a 35,000 word report initially commissioned as a resource for BBC News managers, but then made available to a wider readership. The report attempted to answer the question: \"How would economics coverage change if we could reinvent it today, incorporating what we now know about global environmental and economic trends?\"  Barker's reporting assignments have included the 1988 Bush campaign; the 1989 Salvadoran elections and accompanying FMLN offensive; the Gulf War and Kurdish refugee crisis; the 1991 Soviet coup; the 1996 exhumation of the mass graves near Srebrenica, in Bosnia; Pope John Paul II's 1998 trip to Cuba; the Northern Ireland peace referendum, and the 2000 U.S. elections. Her reporting out of Lebanon during Israel's war with Hezbollah helped earn CBS News Radio  an Edward R. Murrow award for Breaking News Coverage. Her reporting on the 1991 Gulf War and the fall of the Soviet Union earned gold and bronze medals at the National Headliner Awards. She is a published poet, an unpublished novelist, and contributed the Middle East chapter to \"Crimes of the Scene: A Mystery Novel Guide for the International Traveler\" (by Nina King; St. Martin's Press, 1997). Barker is a graduate of Kenyon College in Gambier, Ohio. She has Master's degrees from Johns Hopkins University's Writing Seminars and Columbia University's Graduate School of Journalism, and an honorary doctorate from Kenyon College.",
+            "bias": "refugees",
+            "url": "https://www.cbsnews.com/news/vicki-barker/?intcid=CNM-00-10abd1h"
+        }
+    ]
+}

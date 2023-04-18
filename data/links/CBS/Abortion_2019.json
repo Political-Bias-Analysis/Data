@@ -1,0 +1,21 @@
+{
+    "Biases": [
+        "Abortion",
+        "planned parenthood"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/jay-inslee-announces-re-election-as-washington-governor-after-ending-white-house-bid/?intcid=CNM-00-10abd1h",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/wisconsin-supreme-court-race-too-close-to-call-1-2-million-votes-brian-hagedorn-lisa-neubauer/?intcid=CNM-00-10abd1h",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/democratic-2020-candidates-descend-on-south-carolina-for-clyburns-world-famous-fish-fry/?intcid=CNM-00-10abd1h",
+            "bias": "planned parenthood"
+        }
+    ],
+    "Year": 2019
+}

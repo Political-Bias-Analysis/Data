@@ -1,0 +1,25 @@
+{
+    "Biases": [
+        "Abortion",
+        "planned parenthood"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/don-blankenship-wont-rule-out-third-party-bid-west-virginia-senate-race-2018-05-06/?intcid=CNM-00-10abd1h",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/the-final-2018-primaries-and-what-to-watch-in-politics-this-week/?intcid=CNM-00-10abd1h",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/man-arrested-for-terroristic-death-threats-against-cnns-don-lemon/?intcid=CNM-00-10abd1h",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/sen-ted-cruz-grills-mark-zuckerberg-facebook-political-bias/?intcid=CNM-00-10abd1h",
+            "bias": "planned parenthood"
+        }
+    ],
+    "Year": 2018
+}

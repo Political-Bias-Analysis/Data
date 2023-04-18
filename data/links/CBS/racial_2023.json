@@ -1,0 +1,35 @@
+{
+    "Biases": [
+        "racial",
+        "white privilege",
+        "racial discrimination",
+        "BLM"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cbsnews.com/news/jan-6-scott-perry-cellphone-justice-dept/?intcid=CNM-00-10abd1h",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-mark-meadows-special-counsel-appeal-rejected/?intcid=CNM-00-10abd1h",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/fulton-county-superior-court-judge-robert-mcburney-interview-trump-investigation-georgia/?intcid=CNM-00-10abd1h",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/mike-pence-subpoena-challenge-special-counsel-jack-smith-trump-investigation/?intcid=CNM-00-10abd1h",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/the-long-march-toward-racial-equality-in-the-ranks/?intcid=CNM-00-10abd1h",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.cbsnews.com/news/willow-project-alaska-oil-drilling-plan-stopwillow-social-media-campaign-joe-biden/?intcid=CNM-00-10abd1h",
+            "bias": "BLM"
+        }
+    ],
+    "Year": 2023
+}
